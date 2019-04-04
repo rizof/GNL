@@ -6,3 +6,6 @@ make
 ./gnl "fichier1" "fichier2" "..."
 
 renvoie ligne par ligne les fichiers lue.
+
+
+![Screenshot](score.png)
