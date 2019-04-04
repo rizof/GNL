@@ -10,7 +10,7 @@ INCLUDEL	=	-I ./$(LIBDIR)/
 
 OBJDIR		= 	objs
 
-OBJDIR_ALGO	=	objs/
+OBJDIR_ALGO	=	objs/algo
 
 SRCDIR_ALGO	=	srcs/
 
